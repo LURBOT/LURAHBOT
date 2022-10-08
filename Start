@@ -1,0 +1,12 @@
+#!/bin/bash
+# Credits: @mrismanaziz
+# Copyright (C) 2022 Alcii
+#
+# This file is a part of < https://github.com/LURBOT/KAY-LURAH/ >
+# PLease read the GNU Affero General Public License in
+# <https://www.github.com/LURBOT/KAY-LURAH/blob/main/LICENSE/>.
+#
+# t.me/visaluxsupport & t.me/angkringan_kay
+
+# start
+python3 -m WhyzuProject
